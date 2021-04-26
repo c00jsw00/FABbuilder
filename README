@@ -53,5 +53,5 @@ The input.fasta file can contain multiple sequence.
 start automated modelling:
 
 ```shell
-bash FABbuilderV01.sh input.fasta
+bash FABbuilderV01.sh c2.fasta
 ```
